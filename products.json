@@ -1,0 +1,50 @@
+[
+    {
+    "id":1,
+    "name": "Arm chair",
+    "price": 100,
+    "image": "image/image1.jpeg"
+},
+{
+    "id":2,
+    "name": "Ava Chair",
+    "price": 101,
+    "image": "image/image2.jpeg"
+},
+{
+    "id":3,
+    "name": "Coffee Table",
+    "price": 100,
+    "image": "image/image3.jpeg"
+},
+{
+    "id":4,
+    "name": "Fioroni Table",
+    "price": 100,
+    "image": "image/image4.jpeg"
+},
+{
+    "id":5,
+    "name": "Cor Dourada",
+    "price": 120,
+    "image": "image/image5.jpeg"
+},
+{
+    "id":6,
+    "name": "Momastic",
+    "price": 100,
+    "image": "image/image6.jpeg"
+},
+{
+    "id":7,
+    "name": "Samsung TV",
+    "price": 150,
+    "image": "image/image7.jpeg"
+},
+{
+    "id":8,
+    "name": "Gridifiti Tv",
+    "price": 150,
+    "image": "image/image8.jpeg"
+}
+]
